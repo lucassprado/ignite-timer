@@ -1,4 +1,4 @@
-![image](https://github.com/lucassprado/ignite-timer/assets/81657829/2ebb17e5-0677-43d1-8d06-9313274c3eb6)
+![image](https://github.com/lucassprado/ignite-timer/assets/81657829/0e814150-3d80-44d2-bf08-c73838ca1bc5)
 
 # Ignite timer
 
