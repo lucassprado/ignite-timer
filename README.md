@@ -12,6 +12,8 @@ This application was created during the second module of the Rocketseat Ignite p
 - Styled-components
 - React Hook Form
 - React Router DOM
+- Zod
+- Immer
 
 ## Setup
 
